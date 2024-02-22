@@ -1,0 +1,40 @@
+ <!--Horizontal Scroller-->
+    <div class="container mt-5">
+        <h4>Exciting deals</h4>
+
+        <div class="scroll-container">
+
+
+            <p class="btn btn-success-subtle" style="font-weight: 700;"><img src="ed1.jpg" alt="">Up to 30% off</p>
+            <p class="btn btn-success-subtle" style="font-weight: 700;"><img src="ed2.jpg" alt="">Up to 33% off</p>
+            <p class="btn btn-success-subtle" style="font-weight: 700;"><img src="ed3.jpg" alt="">Up to 17% off</p>
+            <p class="btn btn-success-subtle" style="font-weight: 700;"><img src="ed4.jpg" alt="">Up to 40% off</p>
+            <p class="btn btn-success-subtle" style="font-weight: 700;"><img src="ed5.jpg" alt="">Up to 13% off</p>
+            <p class="btn btn-success-subtle" style="font-weight: 700;"><img src="ed6.jpg" alt="">Up to 27% off</p>
+            <p class="btn btn-success-subtle" style="font-weight: 700;"><img src="ed7.jpg" alt="">Up to 21% off</p>
+            <p class="btn btn-success-subtle" style="font-weight: 700;"><img src="ed8.jpg" alt="">Up to 11% off</p>
+            <p class="btn btn-success-subtle" style="font-weight: 700;"><img src="ed9.jpg" alt="">Up to 19% off</p>
+            <p class="btn btn-success-subtle" style="font-weight: 700;"><img src="ed10.jpg" alt="">Up to 29% off</p>
+            <p class="btn btn-success-subtle" style="font-weight: 700;"><img src="ed11.jpg" alt="">Up to 23% off</p>
+        </div>
+    </div>
+
+    <div class="container mt-5">
+        <h4>Popular products in Beauty internationally</h4>
+
+        <div class="scroll-container">
+
+
+            <p class="btn btn-success-subtle" style="font-weight: 700;"><img src="pb1.jpg" alt=""></p>
+            <p class="btn btn-success-subtle" style="font-weight: 700;"><img src="pb2.jpg" alt=""></p>
+            <p class="btn btn-success-subtle" style="font-weight: 700;"><img src="pb3.jpg" alt=""></p>
+            <p class="btn btn-success-subtle" style="font-weight: 700;"><img src="pb4.jpg" alt=""></p>
+            <p class="btn btn-success-subtle" style="font-weight: 700;"><img src="pb5.jpg" alt=""></p>
+            <p class="btn btn-success-subtle" style="font-weight: 700;"><img src="pb6.jpg" alt=""></p>
+            <p class="btn btn-success-subtle" style="font-weight: 700;"><img src="pb7.jpg" alt=""></p>
+            <p class="btn btn-success-subtle" style="font-weight: 700;"><img src="pb8.jpg" alt=""></p>
+            <p class="btn btn-success-subtle" style="font-weight: 700;"><img src="pb9.jpg" alt=""></p>
+            <p class="btn btn-success-subtle" style="font-weight: 700;"><img src="pb10.jpg" alt=""></p>
+            <p class="btn btn-success-subtle" style="font-weight: 700;"><img src="pb11.jpg" alt=""></p>
+        </div>
+    </div>
